@@ -1,0 +1,4 @@
+*.tar.gz
+pa11y-dashboard-3.1.0/
+.env
+.idea
